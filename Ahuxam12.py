@@ -507,10 +507,19 @@ class __xxx__:
             p3 = input('  Name + 3 : ')
 
             p4 = input('  Name + 4 : ')
+            
+            p5 = input('  Name + 5 : ')
+           
+	    p6 = input('  Name + 6 : ')
+		
+            p7 = input('  Name + 7 : ')
+	    
+	    p8 = input('  Name + 8 : ')
 
-            os.system("clear")
+	    p9 = input('  Name + 9 : ')
 
-            print(logo)
+	    p10 = input('  Name + 10 : ')
+	    print(logo)
 
             print("\033[1;31m\rUse flight (airplane) mode before use\033[1;37m")
 
